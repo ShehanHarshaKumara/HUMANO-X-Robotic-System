@@ -1,5 +1,6 @@
 🤖 HUMANO-X Robotic System
 Design and Development of a Servo-Based Humanoid Robot
+<img width="1536" height="1024" alt="9ce36577-b4d4-419e-914f-f41c39bc72ba" src="https://github.com/user-attachments/assets/010ab25f-c87a-4b70-bc19-49e7105b2646" />
 <img width="3024" height="4032" alt="WhatsApp Image 2026-04-24 at 6 20 21 PM - Copy" src="https://github.com/user-attachments/assets/51ae6227-87fb-4976-8f7d-5e81f210cdd9" />
 <img width="3024" height="4032" alt="WhatsApp Image 2026-04-24 at 6 20 12 PM" src="https://github.com/user-attachments/assets/d0e3ba44-2898-4449-a201-9573eafb6eff" />
 <img width="3024" height="4032" alt="WhatsApp Image 2026-04-24 at 6 20 25 PM (1)" src="https://github.com/user-attachments/assets/7202152d-efc2-4fd6-b8a3-3694cc6fb7e7" />
